@@ -43,6 +43,6 @@ Engineered an optimized data architecture anchoring a central `Sales` fact table
 ---
 
 ## 📂 Repository Contents
-* 📊 [Enterprise_Sales_Analytics.pbix](Google_drive_link](https://drive.google.com/file/d/1C4uRf0VhtEG3pcKSJYwjrRdb2wXr4wC1/view?usp=sharing) - Complete Power BI dashboard (Hosted on Google Drive due to GitHub file size limits).
+* 📊 [Enterprise_Sales_Analytics.pbix](https://drive.google.com/file/d/1C4uRf0VhtEG3pcKSJYwjrRdb2wXr4wC1/view?usp=sharing) - Complete Power BI dashboard (Hosted on Google Drive due to GitHub file size limits).
 * 🖼️ `Images/` - High-fidelity directory containing all strategic visual previews.
 * 📝 `README.md` - Technical project documentation.
